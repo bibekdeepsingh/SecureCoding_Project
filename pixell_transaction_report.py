@@ -10,7 +10,7 @@ report the results.
 import csv
 import os
 
-# Constants
+# Constant
 VALID_TRANSACTION_TYPES = ['deposit', 'withdraw']
 
 
