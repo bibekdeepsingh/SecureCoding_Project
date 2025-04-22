@@ -1,4 +1,4 @@
-name: Python Security Scan
+name: Python-Security Scan
 
 on: [push, pull_request]
 
