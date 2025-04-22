@@ -4,7 +4,7 @@ Author: ACE Faculty
 Edited by: Bibekdeep Singh
 Date: 06/03/2024
 Usage: This program will read transaction data from a .csv file, summarize and 
-report the results.
+report results.
 """
 
 import csv
